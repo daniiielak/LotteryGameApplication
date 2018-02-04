@@ -8,9 +8,7 @@ The aim of the project is to develop an application that allows the user to play
 
 ## Class Diagram Overview
 The Class Diagram shows, how the different classes are setup, which attributes and methods they provide and how they work together.
-
-![Class Diagram Setup](https://github.com/daniiielak/SecretLotteryApplication/blob/master/Images/LotteryGameStructure.png "Class Diagram Drawing)
-
+![Class Diagram Setup](https://github.com/daniiielak/LotteryGameApplication/blob/master/Images/LotteryGameStructure.png "Class Diagram Drawing")
 
 ## Class Setup
 **1. App class (SecretLotteryApp.java):**
